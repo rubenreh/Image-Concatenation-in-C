@@ -1,4 +1,4 @@
-# UNIX Process Management
+# Image Concatenation : UNIX Process Management
 
 This project is a project focusing on UNIX process creation, inter-process communication, and signal handling in C. The objective is to deepen understanding of how processes are managed and interact in a UNIX environment, specifically using `fork()`, `exec()`, `pipe()`, and signal-related system calls.
 
